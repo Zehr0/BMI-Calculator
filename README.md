@@ -1,11 +1,23 @@
 # BMI-Calculator
 A simple BMI Calculator build on Kotlin
 
-![Screenshot_20230701_162406](https://github.com/Zehr0/BMI-Calculator/assets/38166362/b1ba2eb9-071a-40b9-8d47-e5985064890e)
 
-![Screenshot_20230701_162439](https://github.com/Zehr0/BMI-Calculator/assets/38166362/3eb9f492-075a-4f66-a956-122962e48791)
+![Screenshot_20230701_162406](https://github.com/Zehr0/BMI-Calculator/assets/38166362/d5bfedad-8de9-474c-b96f-7135c15999cb)
 
-![Screenshot_20230701_162508](https://github.com/Zehr0/BMI-Calculator/assets/38166362/81350390-91af-4691-b7d4-c738b1e16236)
 
-![Screenshot_20230701_162536](https://github.com/Zehr0/BMI-Calculator/assets/38166362/0802f7b6-f126-4c00-9139-c489c80ec1a6)
+
+
+![Screenshot_20230701_162439](https://github.com/Zehr0/BMI-Calculator/assets/38166362/5f2c0956-5818-42fa-a6cd-a326e5ad0a88)
+
+
+
+
+![Screenshot_20230701_162508](https://github.com/Zehr0/BMI-Calculator/assets/38166362/73728e3f-e884-4135-b693-a04f381e96b3)
+
+
+
+
+![Screenshot_20230701_162536](https://github.com/Zehr0/BMI-Calculator/assets/38166362/9c44c45c-c3c5-471d-95a7-6000f5d7f94e)
+
+
 
